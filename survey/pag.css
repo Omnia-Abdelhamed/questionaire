@@ -1,0 +1,76 @@
+
+   
+    .btn {
+background-color: #00253c;
+border: none;
+color: black;
+padding: 16px 32px;
+text-align: center;
+font-size: 16px;
+margin: 4px 2px;
+transition: 0.3s;
+}
+
+.btn:hover {
+background-color: red;
+color: white;
+}
+      .fr{
+          float:right;
+      }
+      .fl{
+          float: left;
+      }
+      .cleer{
+          clear: both;
+      }
+      .myimg{
+          padding: 5px;
+      }
+.mydp{
+    float: left;
+    width: 70%;
+    margin-left: 200px;
+    font-size: 30%;
+    padding: 10px;
+}
+.mydp h2{
+    margin-left: 350px;
+
+}
+/* ********************* */
+.teb{
+    width: 60%;
+    margin-left:200px;
+    margin-right: 100px;
+    padding: 30px;
+
+ 
+}
+.par{
+   width: 70%;
+   margin-left: 12%;
+}
+.hadeer{
+    width: 100%;
+    height: 60px;
+    background-color: #00253c;
+   
+}
+.hadeerbtn1{
+    color: wheat;
+}
+ .divla{
+    margin-top: 40px;
+    width: 200px;
+    height: 1000px;
+    background-color: #00253c;
+
+}
+.divlr{
+    margin-top: 40px;
+    width: 200px;
+    height: 1000px;
+    background-color: #00253c;
+
+}
